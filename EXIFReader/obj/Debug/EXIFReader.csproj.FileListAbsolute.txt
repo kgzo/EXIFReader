@@ -1,0 +1,6 @@
+D:\Projekti\CS\EXIFReader\EXIFReader\bin\Debug\EXIFReader.exe.config
+D:\Projekti\CS\EXIFReader\EXIFReader\obj\Debug\EXIFReader.csprojResolveAssemblyReference.cache
+D:\Projekti\CS\EXIFReader\EXIFReader\bin\Debug\EXIFReader.exe
+D:\Projekti\CS\EXIFReader\EXIFReader\bin\Debug\EXIFReader.pdb
+D:\Projekti\CS\EXIFReader\EXIFReader\obj\Debug\EXIFReader.exe
+D:\Projekti\CS\EXIFReader\EXIFReader\obj\Debug\EXIFReader.pdb
